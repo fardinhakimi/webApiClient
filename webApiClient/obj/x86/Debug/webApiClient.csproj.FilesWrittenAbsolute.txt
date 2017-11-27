@@ -1,0 +1,9 @@
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/bin/Debug/Newtonsoft.Json.dll
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/bin/Debug/System.Net.Http.Formatting.dll
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/bin/Debug/webApiClient.pdb
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/bin/Debug/webApiClient.exe
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/obj/x86/Debug/webApiClient.exe
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/obj/x86/Debug/webApiClient.pdb
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/bin/Debug/FullContactApi.dll
+/Users/fardinhakimi/Projects/webApiClient/webApiClient/bin/Debug/FullContactApi.pdb

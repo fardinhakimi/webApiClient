@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6C5ACFD0-55CE-4D07-8120-18B07AB5558A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webApiClient/Program.cs">
+    <Files>
+      <File FileName="webApiClient/Program.cs" Line="114" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.webApiClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
